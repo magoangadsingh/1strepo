@@ -1,4 +1,4 @@
 # 1strepo
 1st Repo
 <br> 
-By magoangadsinghabc
+By magoangadsingh
